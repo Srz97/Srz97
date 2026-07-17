@@ -1,16 +1,16 @@
 # Hi, I'm Sharaiz Shah 👋
 
-## About Me
-
-I am an aspiring Full Stack Developer based in Stockholm, Sweden.
+## Aspiring Full Stack Developer | Lifelong Learner | Problem Solver
 
 I enjoy building practical web applications and continuously improving my programming skills.
 
-Currently learning:
+## 🚀 Currently Learning
 
-- JavaScript
-- Git & GitHub
-- Full Stack Development
+- ⚡ Modern JavaScript (ES6+)
+- 🌿 Git & GitHub for professional development workflows
+- 💻 Full Stack Web Development
+- 🧩 Building responsive and interactive web applications
+
 
 ## Technologies
 
