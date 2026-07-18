@@ -1,36 +1,73 @@
 # Hi, I'm Sharaiz Shah 👋
 
-## Aspiring Full Stack Developer | Lifelong Learner | Problem Solver
+I'm an aspiring Full Stack Developer based in Stockholm, Sweden.
 
-I enjoy building practical web applications and continuously improving my programming skills.
+After spending several years working in logistics, I decided to pursue my passion for technology and software development. Today, I'm focused on building practical web applications, strengthening my programming skills, and continuously learning through hands-on projects.
 
-## 🚀 Currently Learning
+I enjoy turning ideas into working applications, exploring modern web technologies, and challenging myself to become a better developer every day.
+
+---
+
+## 🔭 Projects I'm Proud Of
+
+### 🎮 Rock Paper Scissors Game
+An interactive browser game built with HTML, CSS and JavaScript featuring responsive gameplay and score tracking.
+
+- 🔗 **Repository:** https://github.com/Srz97/Rock-paper-scissors-Game
+- 🌐 **Live Demo:** https://srz97.github.io/Rock-paper-scissors-Game/
+
+---
+
+### 🌳 Deforestation Awareness Website
+A responsive educational website designed to raise awareness about the causes, effects, and possible solutions to deforestation.
+
+- 🔗 **Repository:** https://github.com/Srz97/deforestation
+- 🌐 **Live Demo:** https://srz97.github.io/deforestation/
+
+---
+
+More projects are on the way as I continue learning and building.
+
+---
+
+## 🌱 What I'm Currently Learning
+
+I'm continuously improving my skills by building real-world projects and studying modern software development.
 
 - ⚡ Modern JavaScript (ES6+)
-- 🌿 Git & GitHub for professional development workflows
+- 🌿 Git & GitHub
 - 💻 Full Stack Web Development
-- 🧩 Building responsive and interactive web applications
+- 🎨 Responsive Web Design
+- 🧩 Writing clean, maintainable code
+- 🚀 Software development best practices
 
+---
 
-## Technologies
+## 🛠️ Tech Stack
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
 - Python
 - Git
 - GitHub
 - VS Code
 
-## Featured Projects
+---
 
-- 🎮 Rock Paper Scissors Game
-- 🌳 Deforestation Awareness Website
-- 💰 Budget & Expense Tracker
+## 👯 Open To
 
-## Connect with me
+I'm always interested in connecting with developers, contributing to open-source projects, collaborating on interesting ideas, and learning from the developer community.
+
+---
+
+## 📫 Connect With Me
 
 - GitHub: https://github.com/Srz97
 - LinkedIn: https://www.linkedin.com/in/sharaiz-shah-122645252/
 
-Thanks for visiting my profile!
+---
+
+> *"Every project is another step toward becoming the developer I aspire to be."*
+
+Thanks for visiting my profile! 🚀
