@@ -68,6 +68,6 @@ I'm always interested in connecting with developers, contributing to open-source
 
 ---
 
-> *"Every project is another step toward becoming the developer I aspire to be."*
+> *"Driven by curiosity, inspired by technology, and committed to continuous growth."*
 
 
